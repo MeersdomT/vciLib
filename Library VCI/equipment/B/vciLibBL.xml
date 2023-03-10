@@ -52,7 +52,7 @@
       <MemoryReserve>100</MemoryReserve>
       <Name>vciLibBL</Name>
       <Namespace />
-      <Number>18</Number>
+      <Number>28</Number>
       <ProgrammingLanguage>LAD</ProgrammingLanguage>
       <SetENOAutomatically>false</SetENOAutomatically>
       <UDABlockProperties />
@@ -315,7 +315,7 @@
           <MultilingualTextItem ID="13" CompositionName="Items">
             <AttributeList>
               <Culture>en-US</Culture>
-              <Text />
+              <Text>This is the second version</Text>
             </AttributeList>
           </MultilingualTextItem>
         </ObjectList>
